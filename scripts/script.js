@@ -157,6 +157,7 @@ try {
     });
 
     getGoods(renderGoodsList, hash);
+    changeTitle();
 
 
 
